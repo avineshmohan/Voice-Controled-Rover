@@ -20,4 +20,3 @@ Install and Configure Software Required:
 On your lapto, install Arduino software and open it. Connect the Arduino to the USB slot of laptop. In the tools section, select the Arduino Uno board and the COM port that you have plugged your Arduino into. Now install BitVoicer software from web.
 Compile and Execute the Code:
 
-Download the code from the link below and according to the code set commands on BitVoicer, connect an external microphone or earphone for voice commands. After setting up commmands, connect the Arduino to the laptop and upload the code. 
